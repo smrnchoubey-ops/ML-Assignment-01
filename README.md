@@ -53,7 +53,6 @@ Linear Regression (from sklearn)
 - Assignment-1.ipynb
 - README.md
 
----
 
-## 👩‍💻 Author
-Simran Choubey
+
+
